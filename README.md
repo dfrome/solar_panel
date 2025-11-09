@@ -21,7 +21,7 @@ This repository uses Python, Power BI, and regression modeling.
 
 ## Report
 - The main finding is the Year-on-Year production capacity loss depicted here:
-![comparison YoY](outputs/resources/linear_reg01.png)
+![comparison YoY](outputs/resources/linear_reg01.png)  
 The conclusion is that additional panels are **not** worth buying.
 - A comprehensive report with figures is available in the **outputs** directory
 - A typical display for one day of solar panel production compared to sun radiation:
