@@ -22,4 +22,4 @@ This repository uses Python, Power BI, and regression modeling.
 ## Report
 - A comprehensive report with figures is available in the **outputs** directory
 - The main finding is the Year-on-Year production capacity loss depicted here:
-![comparison YoY](solar_panel/outputs/resources/linear_reg01.png)
+![comparison YoY](outputs/resources/linear_reg01.png)
