@@ -1,6 +1,6 @@
 # Solar Panel ROI Study
 
-A data analysis project exploring the **profitability of solar panels** using real production data, consumption logs, and Copernicus climate datasets.  
+A data analysis project exploring the **profitability of solar panels** using real production data, consumption, and Copernicus climate datasets.  
 This repository uses Python, Power BI, and regression modeling.
 
 ---
@@ -20,9 +20,9 @@ This repository uses Python, Power BI, and regression modeling.
 ---
 
 ## Report
+<br>The conclusion is that additional panels are **not** worth buying.<br><br>
+- [Homepower Study (PDF)](outputs/homepower_public.pdf) : comprehensive report with figures available in the **outputs** directory <br><br>
 - The main finding is the Year-on-Year production capacity loss depicted here:
-![comparison YoY](outputs/resources/linear_reg01.png)  
-The conclusion is that additional panels are **not** worth buying.
-- A comprehensive report with figures is available in the **outputs** directory
+![comparison YoY](outputs/resources/linear_reg01.png)  <br><br>
 - A typical display for one day of solar panel production compared to sun radiation:
 ![production and radiation](outputs/resources/aligned_time01.png)
