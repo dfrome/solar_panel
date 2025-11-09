@@ -1,0 +1,2 @@
+just used for some checks of datasource consistency,
+with src/read_test_copernicus.py
